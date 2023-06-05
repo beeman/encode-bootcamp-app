@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@encode-bootcamp-app/db": ["libs/db/src/index.ts"],
       "@encode-bootcamp-app/ui": ["libs/ui/src/index.ts"]
     }
   },
