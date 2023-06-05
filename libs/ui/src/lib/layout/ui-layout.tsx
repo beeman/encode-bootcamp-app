@@ -10,7 +10,7 @@ export function UiLayout({ children }: { children: ReactNode }) {
         profile={<WalletMultiButton />}
         links={[
           { label: 'Home', link: '/home' },
-          { label: 'About', link: '/about' },
+          { label: 'Keypairs', link: '/keypairs' },
         ]}
       />
       <Container>{children}</Container>

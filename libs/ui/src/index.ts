@@ -1,6 +1,7 @@
 export * from './lib/card/ui-card'
 export * from './lib/copy/ui-copy'
 export * from './lib/debug/ui-debug'
+export * from './lib/empty/ui-empty'
 export * from './lib/layout/ui-layout'
 export * from './lib/loader/ui-loader'
 export * from './lib/not-found/ui-not-found'
